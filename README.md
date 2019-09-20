@@ -9,7 +9,7 @@
 4. Restart Photoshop. The script should now be available in `File ▸ Scripts ▸ santize-layernames`.
 
 ### Usage
-* Removes all filename friendly characters from layernames. This makes it easier when batch saving all layers.
+* Removes all non-filename-friendly characters from layernames. This makes it easier when batch saving all layers.
 * Characters not removed are: a-z, 0-9 and -
 * You can customize which letters to keep/remove by editing the regex variable in the script.
 
